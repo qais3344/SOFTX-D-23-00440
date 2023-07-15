@@ -1,10 +1,10 @@
 # ClimateCool
 Automating Cooling Load Calculations with MATLAB App based on ASHRAE Standards
 ***
-## Source File
-ClimateCoolSource.zip is source file including editable code, GUI and source pictures can be used to improve capabilities of application.
 ## General Info
 ClimateCool is a MATLAB® Application based on ASHRAE Standards which can automate cooling load calculation procedure. Its takes all building parameters like material, dimensions, direction and occupancy including electric appliances and based on data calculate cooling load for that building utilizing CLTD method. 
+## Source File
+ClimateCoolSource.zip is source file including editable code, GUI and source pictures can be used to improve capabilities of application.
 ***
 ## Installation
 ### Supported platform 
