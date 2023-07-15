@@ -1,5 +1,5 @@
-# DynABlock_2D
-MATLAB application for dynamic, pushover and limit equilibrium analysis of 2D rigid Block structures
+# ClimateCool
+Automating Cooling Load Calculations with MATLAB App based on ASHRAE Standards
 ***
 ## General Info
 DynABlock_2D is a MATLAB® application for dynamic, pushover and limit equilibrium analysis of 2D rigid Block structures. 
